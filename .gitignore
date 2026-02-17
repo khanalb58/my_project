@@ -1,0 +1,5 @@
+# Ignore OS clutter
+.DS_Store
+Thumbs.db
+# Ignore logs
+*.log
